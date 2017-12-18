@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q15_判斷是否為質數",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q16_99乘法表", "Q16_99乘法表\Q16_99乘法表.csproj", "{38270D38-CBB5-4B3E-8DA6-563209100F13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "E:\1.資策會\C#\最後老師電腦\16陳俊宏\homework\homework\homework.csproj", "{C653250E-38B9-43A7-AA94-55DE07B099CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework", "..\..\..\資策會\C#\最後老師電腦\16陳俊宏\homework\homework\homework.csproj", "{C653250E-38B9-43A7-AA94-55DE07B099CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
